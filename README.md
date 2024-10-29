@@ -1,16 +1,13 @@
-# calculadora
+# Calculadora
 
-A new Flutter project.
+Esta é uma aplicação de calculadora desenvolvida em Flutter, implementando o padrão de arquitetura MVC (Model-View-Controller). O projeto foi desenvolvido durante as aulas de **COMPUTAÇÃO MÓVEL** do 8° semestre do curso de Engenharia de Computação - SETREM.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Realiza operações básicas: adição, subtração, multiplicação, divisãoe e porcentagem.
+- Permite a entrada de números e a seleção de operações.
+- Implementa a funcionalidade de backspace para remover o último dígito inserido.
+- Calcula automaticamente resultados em operações sequenciais.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Geral
+* Flutter SDK: `3.10.4`
